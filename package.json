@@ -1,0 +1,19 @@
+{
+  "name": "exact.db",
+  "version": "1.0.0",
+  "description": "An easy to use database that uses JSON to store values",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "easy.db",
+    "json",
+    "JSON"
+  ],
+  "author": "turtle-pog",
+  "license": "Apache-2.0"
+}
